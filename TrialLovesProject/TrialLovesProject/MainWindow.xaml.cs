@@ -18,6 +18,8 @@ namespace TrialLovesProject
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// Marian Sorrels work 4/5: created ERD for project, worked on diagram for processes in code
+
     public partial class MainWindow : Window
     {
         public MainWindow()
